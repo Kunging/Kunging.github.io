@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Unity UI 학습을 위해 만든 수퍼 연락처<a href ="https://github.com/Kunging/Kunging.github.io.git>Github</a>
+description: Unity UI 학습을 위해 만든 수퍼 연락처<a href ="https://github.com/Kunging/Kunging.github.io.git">Github</a>
 
 
 ---
