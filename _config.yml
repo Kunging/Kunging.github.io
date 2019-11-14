@@ -1,5 +1,5 @@
 # Site settings
-title: Kunging
+title: 킁이서버
 email: zmddl0928@gamil.com
 url: https://Kunging.github.io
 description: "게임좀 만들어보자!"
@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  정보: Location
-  소개: Around the Web
-  계좌: Credits
+  Location: Location
+  address: Around the Web
+  Credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
